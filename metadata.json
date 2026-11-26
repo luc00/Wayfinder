@@ -1,0 +1,6 @@
+{
+  "name": "Wayfinder Studio",
+  "description": "Pianificazione ed esecuzione a contesto ridotto (anti-context-rot) per progetti complessi su Gemini, ChatGPT, Claude e Grok.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
